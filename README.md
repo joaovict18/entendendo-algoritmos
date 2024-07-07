@@ -1,2 +1,3 @@
-# entendendo-algoritmos
- Repositório para guardar arquivos e respostas dos exercícios do livro Entendendo Algoritmos de Aditya Y. Bhargava.
+## Entendendo Algoritmos
+ O livro aborda, de forma ilustrada, a aplicação de algoritmos em problemas de programação enfrentados cotidianamente.
+ 
